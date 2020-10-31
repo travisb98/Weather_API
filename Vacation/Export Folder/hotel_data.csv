@@ -1,13 +1,12 @@
-City,Country,Latitude,Longitude,Temperature,Humidity,Cloudiness,Wind Speed,Hotel Name,Hotel Lat,Hotel Lon
-tsihombe,mg,-25.3,45.4833333,72.05,66,0,9.95,Restaurant Le Paradis du sud,-25.3187435,45.4836703
-farrukhabad,in,27.4,79.56666700000001,79.43,26,0,6.29,Hotel Mohan Palace,27.3850378,79.57415929999999
-dharchula,in,29.85,80.533333,71.13,20,0,3.74,Hotel new yash dharchula,29.8489279,80.5414534
-salalah,om,17.0175,54.082777799999995,75.2,78,0,2.24,HYATT SALALAH HOTEL,17.01938,54.11075
-yulara,au,-25.245291,130.980545,78.8,16,0,9.17,Ayers Rock Resort,-25.2377186,130.9859657
-tehri,in,30.383333,78.483333,75.22,20,0,1.23,Tehri Himalayan Residency,30.3829942,78.4394251
-mangochi,mw,-14.4666667,35.2666667,76.28,57,0,3.0,Sunbird Nkopola Lodge,-14.4861733,35.253304
-mecca,sa,21.426667000000002,39.826111,75.72,47,0,1.23,Pullman Zamzam Makkah,21.4193278,39.82473359999999
-jizan,sa,16.889167,42.551111,78.8,78,0,3.36,Radisson Blu Resort Jizan,16.9291857,42.548544
-elat,il,29.558049,34.948212,71.6,68,0,9.17,"Al Manara, a Luxury Collection Hotel, Saraya Aqaba",29.5357818,34.9932756
-nizwa,om,22.9333333,57.533333299999995,79.03,15,0,4.07,Antique Inn - Nizwa,22.9324205,57.53048740000001
-jamui,in,24.916667,86.216667,79.05,44,0,8.63,hotel j p grand jamui,24.9321137,86.2278165
+City,Country,Latitude,Longitude,Temperature,Humidity,Cloudiness,Wind Speed,Max Temp,Hotel Name,Hotel Lat,Hotel Lon
+rikitea,pf,-23.120277800000004,-134.9691667,76.1,64,0,2.66,76.1,Pension Maro'i,-23.1206197,-134.9687529
+salalah,om,17.0175,54.082777799999995,73.4,38,0,3.36,73.4,HYATT SALALAH HOTEL,17.01938,54.11075
+alenquer,br,-1.9333330000000002,-54.766667000000005,77.0,94,0,3.36,77.0,Hotel Pepita,-1.9570621,-54.7380186
+porbandar,in,21.633333,69.6,77.0,53,0,8.52,77.0,Lords Inn Porbandar,21.6314149,69.6090348
+los llanos de aridane,es,28.658507,-17.918211,71.24,43,0,9.17,71.6,Hotel Hacienda de Abajo,28.6433261,-17.9349355
+barao de melgaco,br,-16.216667,-55.966667,78.8,69,0,3.36,78.8,Tuiuiú Pantanal Hotel,-16.2008526,-55.9745424
+rajgurunagar,in,18.866667,73.9,77.04,48,0,3.6,77.04,SPOT ON 64658 Hotel Yuvraj Executive,18.9084446,73.9155906
+malumfashi,ng,11.785288000000001,7.621753,71.35,31,0,7.36,71.35,Malumfashi Motel,11.7768314,7.6104217
+puerto del rosario,es,28.50038,-13.862719,71.6,68,0,8.05,71.6,Hotel El Mirador,28.473816,-13.865657
+umm lajj,sa,25.021264000000002,37.268502000000005,77.29,34,0,4.45,77.29,Shada Collection Mina Hotel,25.04203,37.25263
+toliary,mg,-23.35,43.6666667,79.21,66,0,5.39,79.21,Hotel,-23.3554946,43.6650968
