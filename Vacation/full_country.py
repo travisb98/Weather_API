@@ -1,6 +1,6 @@
 #full country
 
-full_name = {
+full_name_dict = {
 	'AD': 'Andorra',
 	'AE': 'United Arab Emirates',
 	'AF': 'Afghanistan',

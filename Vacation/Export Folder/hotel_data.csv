@@ -1,12 +1,8 @@
-City,Country,Latitude,Longitude,Temperature,Humidity,Cloudiness,Wind Speed,Max Temp,Hotel Name,Hotel Lat,Hotel Lon
-rikitea,pf,-23.120277800000004,-134.9691667,76.1,64,0,2.66,76.1,Pension Maro'i,-23.1206197,-134.9687529
-salalah,om,17.0175,54.082777799999995,73.4,38,0,3.36,73.4,HYATT SALALAH HOTEL,17.01938,54.11075
-alenquer,br,-1.9333330000000002,-54.766667000000005,77.0,94,0,3.36,77.0,Hotel Pepita,-1.9570621,-54.7380186
-porbandar,in,21.633333,69.6,77.0,53,0,8.52,77.0,Lords Inn Porbandar,21.6314149,69.6090348
-los llanos de aridane,es,28.658507,-17.918211,71.24,43,0,9.17,71.6,Hotel Hacienda de Abajo,28.6433261,-17.9349355
-barao de melgaco,br,-16.216667,-55.966667,78.8,69,0,3.36,78.8,Tuiuiú Pantanal Hotel,-16.2008526,-55.9745424
-rajgurunagar,in,18.866667,73.9,77.04,48,0,3.6,77.04,SPOT ON 64658 Hotel Yuvraj Executive,18.9084446,73.9155906
-malumfashi,ng,11.785288000000001,7.621753,71.35,31,0,7.36,71.35,Malumfashi Motel,11.7768314,7.6104217
-puerto del rosario,es,28.50038,-13.862719,71.6,68,0,8.05,71.6,Hotel El Mirador,28.473816,-13.865657
-umm lajj,sa,25.021264000000002,37.268502000000005,77.29,34,0,4.45,77.29,Shada Collection Mina Hotel,25.04203,37.25263
-toliary,mg,-23.35,43.6666667,79.21,66,0,5.39,79.21,Hotel,-23.3554946,43.6650968
+Country Code,Country,City,Latitude,Longitude,Temperature,Humidity,Cloudiness,Wind Speed,Max Temp,Hotel Name,Hotel Lat,Hotel Lon
+AU,Australia,inverell,-29.774031,151.111664,73.0,24,0,7.0,73.0,Cousins Motor Inn - 3.5 Star Rated,-29.7793941,151.1164861
+EG,Egypt,aswan,24.0875,32.898888899999996,76.82,52,0,3.8,76.82,Sofitel Legend Old Cataract Aswan,24.0942418,32.8973505
+IL,Israel,elat,29.558049,34.948212,75.2,64,0,9.17,75.2,"Al Manara, a Luxury Collection Hotel, Saraya Aqaba",29.5357818,34.9932756
+MG,Madagascar,tsihombe,-25.3,45.4833333,74.32,50,0,8.03,74.32,Restaurant Le Paradis du sud,-25.3187435,45.4836703
+OM,Oman,salalah,17.0175,54.082777799999995,77.0,36,0,4.7,77.0,HYATT SALALAH HOTEL,17.01938,54.11075
+PF,French Polynesia,rikitea,-23.120277800000004,-134.9691667,76.01,67,0,4.0,76.01,Pension Maro'i,-23.1206197,-134.9687529
+ZM,Zambia,serenje,-13.233333300000002,30.233333299999998,70.84,48,0,9.93,70.84,SERENJE SOCH INN,-13.225135,30.2287018
